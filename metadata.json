@@ -1,0 +1,6 @@
+{
+  "name": "DARK MATTER FX",
+  "description": "A premium AI-powered Forex Algorithm Bot companion app for MetaTrader 5 (MT5). Monitor accounts, receive AI-generated trade signals, control bot risk, analyze screenshots, and check economic calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
